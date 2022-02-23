@@ -10,16 +10,16 @@ After done successfully, go to your browser and run localhost
 ## Seperately way
 
 ### backend
-`cd /api
+`cd /api`
 
-yarn install
+`yarn install`
 
-yarn dev`
+`yarn dev`
 
 ### frontend
-`cd /front
+`cd /front`
 
-yarn install
+`yarn install`
 
-yarn start`
+`yarn start`
 
