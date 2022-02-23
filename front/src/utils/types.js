@@ -1,0 +1,5 @@
+export const STATUS_ERROR = 'STATUS_ERROR'
+export const STATUS_SUCCESS = 'STATUS_SUCCESS'
+export const LOADING = 'LOADING'
+export const FETCH = 'FETCH'
+export const SELECT = 'SELECT'

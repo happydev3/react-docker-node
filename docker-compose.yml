@@ -1,0 +1,20 @@
+server:
+    build: ./api
+    expose:
+        - 8000
+    ports:
+        - 8000:8000
+    volumes:
+        - ./api:/app
+    command: yarn dev
+
+client:
+    build: ./front
+    expose:
+        - 3000
+    ports:
+        - 80:3000
+    volumes:
+        - ./front:/app
+    stdin_open: true
+    command: yarn start

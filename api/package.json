@@ -1,0 +1,19 @@
+{
+  "name": "phone_category_app_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ZhongYan Yu",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}

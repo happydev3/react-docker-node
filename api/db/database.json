@@ -1,0 +1,44 @@
+[
+    {
+        "title": "iPhone 12",
+        "description": "Get iPhone 12 or iPhone 12 mini for an amazing price with special carrier trade-in offers. Pay over time with low monthly payments",
+        "color": "Red",
+        "price": "$399.95",
+        "image": "https://assets.swappie.com/swappie-product-iphone-12-mini-red-back.png"
+    },
+    {
+        "title": "Huwei Mate 30 Pro",
+        "description": "Iconic and innovative, HUAWEI Mate 30 Pro is an homage to balance and symmetry. The Space Ring camera system presents you a window to explore the world.",
+        "color": "White",
+        "price": "$1140",
+        "image": "https://www.gizmochina.com/wp-content/uploads/2020/10/2-3-500x500.jpg"
+    },
+    {
+        "title": "Samsung galaxy S22 ultra",
+        "description": "New Galaxy S22 Is Expertly Engineered To Outlast Your Day With Class From $409.99. Galaxy S22 Adaptive Screen Optimizes Indoors And Outdoors With Savings Up To $780! 120 Hz Display. 45 W Super Fast Charging. 108 MP Photo",
+        "color": "Green",
+        "price": "$1299.99",
+        "image": "https://www.samsung.com/global/galaxy/galaxy-s9/images/gallery/galaxy-s9-plus_gallery-color_big-c1-01.jpg"
+    },
+    {
+        "title": "Huwei Mate 40 Pro",
+        "description": "Iconic and innovative, HUAWEI Mate 40 Pro is an homage to balance and symmetry. The Space Ring camera system presents you a window to explore the world.",
+        "color": "White",
+        "price": "$2149",
+        "image": "https://www.gizmochina.com/wp-content/uploads/2020/10/2-3-500x500.jpg"
+    },
+    {
+        "title": "Samsung galaxy S20 ultra",
+        "description": "New Galaxy S20 Is Expertly Engineered To Outlast Your Day With Class From $409.99. Galaxy S20 Adaptive Screen Optimizes Indoors And Outdoors With Savings Up To $780! 120 Hz Display. 45 W Super Fast Charging. 108 MP Photo",
+        "color": "Green",
+        "price": "$1099",
+        "image": "https://www.samsung.com/global/galaxy/galaxy-s9/images/gallery/galaxy-s9-plus_gallery-color_big-c1-01.jpg"
+    },
+    {
+        "title": "iPhone 13",
+        "description": "iPhone 13 with Ceramic Shield. Tougher than any smartphone glass. Buy now. Special AT&T offer available at apple.com. Super Retina XDR display. Privacy built in. Huge camera upgrade. 5G. A15 Bionic chip. Services: Fast and free shipping",
+        "color": "Blue",
+        "price": "$829",
+        "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-x-space-gray-back.png"
+    }
+]
