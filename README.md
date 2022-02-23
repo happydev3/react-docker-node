@@ -11,11 +11,15 @@ After done successfully, go to your browser and run localhost
 
 ### backend
 `cd /api
+
 yarn install
+
 yarn dev`
 
 ### frontend
 `cd /front
+
 yarn install
+
 yarn start`
 
