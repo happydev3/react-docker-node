@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## with docker
 
 In the project directory, you can run: `docker-compose up --build`
-After done successfully, go to your browser and run localhost
+After done successfully, run `localhost` in your browser
 
 ## Seperately way
 
